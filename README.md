@@ -57,7 +57,7 @@ server {
 5. Cấu hình UFW, triển khai website vói nginx
 
 ## 7. Hình ảnh website
-![img.png](screenshots/website.png)
+![img.png](screenshots/04-website.png)
 
 ## 8. Quy trình cập nhật website
 1. Cập nhật mã nguồn trên máy local
