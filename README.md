@@ -49,6 +49,8 @@ server {
 }
 ```
 ## 5. Tường UFW
+
+![img.png](screenshots/03-ufw.png)
 ## 6. Các Bước triển khai
 1. kết nối với VPS 
 2. Tạo tài khoản Linux và cài đặt Nginx, Git, ...
