@@ -3,7 +3,7 @@
 ## 1. Thông tin sinh viên
 | Họ và tên      | MSSV       | Lớp      | Tài khoản Linux       | GitHub   | Cổng Nginx |
 |----------------|------------|----------|-----------------------|----------|------------|
-| Đinh Quang Huy | B24DTCN230 | K24CNTT2 | dinhquanghuy-k24cntt2 | Huidinne | 8081       |
+| Đinh Quang Huy | B24DTCN230 | K24CNTT2 | dinhquanghuy-k24cntt2 | Huidinne | 8082       |
 
 ## 2. Môi trường triển khai
 - hệ điều hành: Ubuntu 22.04
@@ -58,7 +58,8 @@ server {
 4. Cấu hình github, đẩy mã nguồn lên github
 5. Cấu hình UFW, triển khai website vói nginx
 
-## 7. Hình ảnh website
+## 7. Hình ảnh website và minh chứng git
+![img.png](screenshots/05-git-log.png)
 ![img.png](screenshots/04-website.png)
 
 ## 8. Quy trình cập nhật website
